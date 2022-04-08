@@ -1,0 +1,3 @@
+[submodule "fontend-client/DATN"]
+	path = fontend-client/DATN
+	url = https://github.com/thanhtrairo/DATN.git
