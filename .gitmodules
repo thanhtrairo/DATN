@@ -4,3 +4,6 @@
 [submodule "fontend-admin/DATN"]
 	path = fontend-admin/DATN
 	url = https://github.com/thanhtrairo/DATN.git
+[submodule "backend/DATN"]
+	path = backend/DATN
+	url = https://github.com/thanhtrairo/DATN.git
